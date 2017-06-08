@@ -4,16 +4,16 @@ description: >-
   The world is an amazing place and we share the most amazing incentives to keep
   the world amazing. From Small incentives such as city farming in the US and
   Beach cleanup to saving animals and big #OceanCleanup incentives. 
-dateModified: '2017-06-08T07:56:39.094Z'
-datePublished: '2017-06-08T08:21:49.303Z'
+dateModified: '2017-06-08T08:22:21.047Z'
+datePublished: '2017-06-08T08:22:21.252Z'
 title: '#WorldlyIncentives -Keeping the world amazing for future generations-'
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-06-08T08:21:49.303Z'
 sourcePath: >-
   _posts/2017-06-08-worldlyincentives-keeping-the-world-amazing-for-future-gen.md
+starred: false
+datePublishedOriginal: '2017-06-08T08:21:49.303Z'
 _type: Blurb
 
 ---
