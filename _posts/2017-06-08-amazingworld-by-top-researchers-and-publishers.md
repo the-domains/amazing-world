@@ -5,8 +5,8 @@ description: >-
   other professional publishers showing the amazing world. Here you find the
   most amazing findings from all over the world. From Sharks who live in an
   active Volcano to amazing life in the arctic.
-dateModified: '2017-06-08T07:50:41.909Z'
-datePublished: '2017-06-08T08:21:49.306Z'
+dateModified: '2017-06-08T08:22:21.047Z'
+datePublished: '2017-06-08T08:22:21.250Z'
 title: '#AmazingWorld by top researchers and publishers'
 author: []
 publisher: {}
