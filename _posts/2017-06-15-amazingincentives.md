@@ -4,16 +4,16 @@ description: >-
   The world is an amazing place and we share the most amazing incentives to keep
   the world amazing. From Small incentives such as city farming in the US and
   Beach cleanup to saving animals and big #OceanCleanup incentives.
-dateModified: '2017-06-15T12:45:43.417Z'
-datePublished: '2017-06-15T12:45:44.674Z'
+dateModified: '2017-06-15T12:47:32.684Z'
+datePublished: '2017-06-15T12:47:33.364Z'
 title: '#AmazingIncentives'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-15-amazingincentives.md
 starred: false
 datePublishedOriginal: '2017-06-15T12:45:44.674Z'
-sourcePath: _posts/2017-06-15-amazingincentives.md
 url: amazingincentives/index.html
 _type: Article
 
