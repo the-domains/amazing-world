@@ -1,4 +1,3 @@
-layout_spectrum: 0.6815958820718645
 typography_spectrum: 0.22932210184274113
 color:
   brandStrength: 0.48052390414022716
@@ -11,7 +10,12 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+github: true
+layout_spectrum: 0.6815958820718645
+analytics:
+  google: UA-98687120-5
 name: Amazing World
+url: 'https://amazingworld.only-amazing.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -23,6 +27,11 @@ navigation:
   - name: Home
     url: 'http://only-amazing.com/'
     type: external
+  - name: AmazingIncentives
+    id: bea12c2e-e7ef-4a6a-b9f4-c39c7565bd2a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e59070f-2f9d-46a1-86eb-eec438574f10.jpg
 title: '#AmazingWorld'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -34,16 +43,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Explore Bears & Bison
-          url: 'https://www.youtube.com/channel/UC2Sk0aXLq3ADkH_USGPKT_Q'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=pHvmGucGm_E'
       keywords:
         - video
         - sharing
@@ -51,6 +52,20 @@ content:
         - video phone
         - free
         - upload
+      related: []
+      author:
+        - name: Explore Bears & Bison
+          url: 'https://www.youtube.com/channel/UC2Sk0aXLq3ADkH_USGPKT_Q'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: 'Brooks Falls - Katmai National Park, Alaska powered by EXPLORE.org'
+      '@type': VideoObject
+      app_links: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
       description: >-
         Explore Website: http://explore.org Facebook: http://goo.gl/SFRAfX -
         Twitter: http://goo.gl/n03NNU Watch Brooks Falls - Katmai National Park
@@ -58,21 +73,9 @@ content:
         River in Katmai National Park. Every year over a hundred Brown Bears
         descend on a mile long stretch of Brooks River to feast on the largest
         Sockeye Salmon run in the world.
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=pHvmGucGm_E'
-      title: 'Brooks Falls - Katmai National Park, Alaska powered by EXPLORE.org'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   All of the #Amazing the world has to offer! Enjoy this months live video is of
   the Brooks Falls in Katmai National Park
-url: 'https://amazingworld.only-amazing.com/'
-analytics:
-  google: UA-98687120-5
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e59070f-2f9d-46a1-86eb-eec438574f10.jpg
-github: true
