@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The world is an amazing place and we offer the best content about life in
   general, whether it is city life or the beauty of nature.
-dateModified: '2017-06-15T12:54:23.940Z'
-datePublished: '2017-06-15T12:54:24.430Z'
+dateModified: '2017-06-15T12:55:46.938Z'
+datePublished: '2017-06-15T12:55:47.797Z'
 title: Living in an amazing world
 author: []
 publisher: {}
@@ -28,6 +28,8 @@ _July 2017 by Bruce W Berry Jr._
 This video was created by [Bruce W. Berry Jr.][0]. He doesn't only show amazing creative skills, but he also shows what \#AmazingWorld is all about. We will be sharing more of his work here, because this man is such an inspiration to all of us. Thanks Bruce!
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzlsOwiAQheGtkFlAIV4wNaV7oTAVIjjNQEt09Tb61sfvfzg5Q5zZZhSFnYFQ61LuUi7JvpG7LWakzlGWW_RIsu_VVavTDUSLvgYD-qJABIyPUA2c9Y7f2ETskQ3sbjg9Y7UpUZvXlIpjxJfI9Dmmg8dB_o-NX1eHOL0" height="380" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj0FuwjAQRfc5hesVLOzUhKAaEg7RbdXFxDbB1NhWxhGKSu9eI2gVMcv__ozeNKgGGxMBnLwiOKiWlmWE3oBe8T6E3plMtFWQbPBchfODlicsQWM33Uv8hHTflPdr-6J5YYy8G4zBozUHwljOrEeiHCC2dLZJC3IbTJMzLdUWo4Np27mgvh5IQwIGmilnjU8tVcDi2LG62ggpK7kRKyFrKZ7a6ELuykpI8bau169P-BCGM-QCjCnczLNcVvzzX8wESUsu1utw4fPweiUfn0seRzwuvn-Wu-L_-V8THG1R" height="100" style=""></iframe>
 
 ### Read and see more of the Amazing world
 
