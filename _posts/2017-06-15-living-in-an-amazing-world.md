@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The world is an amazing place and we offer the best content about life in
   general, whether it is city life or the beauty of nature.
-dateModified: '2017-06-15T12:55:46.938Z'
-datePublished: '2017-06-15T12:55:47.797Z'
+dateModified: '2017-06-24T07:09:01.966Z'
+datePublished: '2017-06-24T07:09:02.487Z'
 title: Living in an amazing world
 author: []
 publisher: {}
@@ -21,9 +21,23 @@ _type: Article
 
 The world is an amazing place and we offer the best content about life in general, whether it is city life or the beauty of nature.
 
+## Amazing images travellers in Australia
+
+_June_
+
+Alex Hawkins published this amazing video of his experiences when traveling through the most rugged regions of Australia. Most people think of Australia's north as a dry and deserted place but Alex shows that it has a lot to offer. This video features some amazing places such as Western Australia's Kimberley & Bungle Bungle's, the Northern Territory's Litchfield, Kakadu and Nitmiluk National Parks.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzlEOgjAQBNCrND0AVRFQQ_EspWztxtYl20qjp5fgH_P35mMyPTo2EURiq6XPeU43peZgPsDVghGoshTVghOQOl665tqd6uZuKRBrt0WKglP2WrbngxQe8OGzlnW7YpseiSdgLVcXGJ-YTQhU3DuEZBngJSJ999XOQ6_-N4cfrRI99Q" height="370" style=""></iframe>
+
+# More \#LivingWorld
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj0FuwjAQRfc5hesVLOzUhKAaEg7RbdXFxDbB1NhWxhGKSu9eI2gVMcv__ozeNKgGGxMBnLwiOKiWlmWE3oBe8T6E3plMtFWQbPBchfODlicsQWM33Uv8hHTflPdr-6J5YYy8G4zBozUHwljOrEeiHCC2dLZJC3IbTJMzLdUWo4Np27mgvh5IQwIGmilnjU8tVcDi2LG62ggpK7kRKyFrKZ7a6ELuykpI8bau169P-BCGM-QCjCnczLNcVvzzX8wESUsu1utw4fPweiUfn0seRzwuvn-Wu-L_-V8THG1R" height="90" style=""></iframe>
+
+---
+
 ## The hidden world
 
-_July 2017 by Bruce W Berry Jr._
+_June by Bruce W Berry Jr._
 
 This video was created by [Bruce W. Berry Jr.][0]. He doesn't only show amazing creative skills, but he also shows what \#AmazingWorld is all about. We will be sharing more of his work here, because this man is such an inspiration to all of us. Thanks Bruce!
 
