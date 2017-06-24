@@ -4,8 +4,8 @@ description: >-
   The world is an amazing place and we share the most amazing incentives to keep
   the world amazing. From Small incentives such as city farming in the US and
   Beach cleanup to saving animals and big #OceanCleanup incentives.
-dateModified: '2017-06-15T12:55:27.669Z'
-datePublished: '2017-06-15T12:55:28.891Z'
+dateModified: '2017-06-24T07:26:55.733Z'
+datePublished: '2017-06-24T07:26:56.364Z'
 title: '#AmazingIncentives'
 author: []
 publisher: {}
@@ -22,9 +22,23 @@ _type: Article
 
 The world is an amazing place and we share the most amazing incentives to keep the world amazing. From Small incentives such as city farming in the US and Beach cleanup to saving animals and big \#OceanCleanup incentives.
 
+## The Ocean Cleanup
+
+We were there, live at the launch of phase two of the truly amazing Ocean Cleanup project. Founder of the Ocean Cleanup, Boyan Slat, is a truly amazing and inspiring person. Against all odds he started his foundation as a student with the sole purpose of getting rid of all the plastic in the oceans. Together with his team he developed an incredible piece of technologie that will be a huge part of the solution of all the plastic in the Oceans. Nowadays the Ocean Cleanup project is supported by millions of people and fans around the globe and even though more funds are needed to scale up and really solve one of the biggest problems we are facing today, these people are truly making a difference.
+
+Watch below's video and get inspired and feel free to have a look at [their website][0].
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzrEOwiAQgOFXIQyOBWNw0NKuurn4AC1chQR6zQG5-PY26vhP39_HhaYMgqOvwUpz1lIEiK9QrTwdjRSFnJWh1q1clGLm7o2tthk6h1lBnsEr34w3jyfd9H0kSFYfprxdHa6VMJV_loAc1wXtDnzJGckDWbn3lBLy0lIqjgDWoVe_q-EDgmI2ag" height="330" style=""></iframe>
+
+# More \#AmazingIncentives
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwdi7ERwkAMBHOquAoowCGOiaAB2b5BP37LGqTP3YbboxJ4og1296klcN8t9XOcgYdzLlIH3CizYqwUa375s9gLzZFKTN0y8HsFizTLLlNixdSyJ0E4d6-EvIlN1h6UhIo77foFS7QraA" height="95" style=""></iframe>
+
+---
+
 ## **This Month's Special: Beach Cleanup**
 
-_July 2017_
+_June_
 
 Cleaning up the beaches is a daunting task but these people are making it happen.
 
@@ -33,3 +47,7 @@ Cleaning up the beaches is a daunting task but these people are making it happen
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwdi7ERwkAMBHOquAoowCGOiaAB2b5BP37LGqTP3YbboxJ4og1296klcN8t9XOcgYdzLlIH3CizYqwUa375s9gLzZFKTN0y8HsFizTLLlNixdSyJ0E4d6-EvIlN1h6UhIo77foFS7QraA" height="95" style=""></iframe>
 
 ---
+
+
+
+[0]: https://www.theoceancleanup.com/ "The ocean cleanup"
