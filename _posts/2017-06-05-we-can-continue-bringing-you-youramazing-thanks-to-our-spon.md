@@ -5,8 +5,8 @@ description: >-
   something amazing to share and you’d like to see it featured here? Just let us
   know. Only-Amazing.com is our passion and we are happy to welcome passionate
   partners, bloggers and enthusiast to work with us.
-dateModified: '2017-07-16T11:57:12.466Z'
-datePublished: '2017-07-16T11:57:12.617Z'
+dateModified: '2017-07-16T11:57:23.818Z'
+datePublished: '2017-07-16T11:57:23.932Z'
 title: 'We will continue bringing you #YourAmazing.'
 author: []
 publisher: {}
@@ -16,8 +16,8 @@ isBasedOnUrl: >-
 sourcePath: >-
   _posts/2017-06-05-we-can-continue-bringing-you-youramazing-thanks-to-our-spon.md
 hasPage: false
-datePublishedOriginal: '2017-07-16T11:57:12.617Z'
 starred: false
+datePublishedOriginal: '2017-07-16T11:57:12.617Z'
 _type: MediaObject
 
 ---
