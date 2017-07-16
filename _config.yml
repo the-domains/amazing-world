@@ -35,7 +35,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e59070f-2f9d-46a1-86eb-eec438574f10.jpg
-title: '#AmazingWorld'
+title: 'All of the #Amazing the world has to offer!'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
