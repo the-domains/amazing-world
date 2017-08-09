@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The world is an amazing place and we offer the best content about life in
   general, whether it is city life or the beauty of nature.
-dateModified: '2017-08-09T08:45:28.458Z'
-datePublished: '2017-08-09T08:45:29.080Z'
+dateModified: '2017-08-09T14:43:47.800Z'
+datePublished: '2017-08-09T14:43:48.376Z'
 title: Living in an amazing world
 author: []
 publisher: {}
@@ -27,11 +27,11 @@ _June_
 
 Alex Hawkins published this amazing video of his experiences when traveling through the most rugged regions of Australia. Most people think of Australia's north as a dry and deserted place but Alex shows that it has a lot to offer. This video features some amazing places such as Western Australia's Kimberley & Bungle Bungle's, the Northern Territory's Litchfield, Kakadu and Nitmiluk National Parks.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzlEOgjAQBNCrND0AVRFQQ_EspWztxtYl20qjp5fgH_P35mMyPTo2EURiq6XPeU43peZgPsDVghGoshTVghOQOl665tqd6uZuKRBrt0WKglP2WrbngxQe8OGzlnW7YpseiSdgLVcXGJ-YTQhU3DuEZBngJSJ999XOQ6_-N4cfrRI99Q" height="370" style=""></iframe>
-
-# More \#LivingWorld
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkE1SwzAMha-iDWRDk7QQCvlj2HABTuDESiOwo4ytpgSGu2MaWJSye3rS6H1S6WU2WMdoG9SrlgdRNKCDDxjZkxAPOTg0SmjCAkalNQ27VcMibHPIbuNNdlFAj7TrJYebNC2AJ3Sd4UMOPWmNQwFWva0OpKXPYZ2mYf4TzgKpc8ri1XmDmxds5Z_GsT4BVY1ns5cAKjzmEFgMdnIUJ_G_uD8wZbI8odQ0QWuU91X0JyyqywUQvGurqBcZfZ4ko1Ezungiixy3bJOJNHKyvttm99vNdfYgJAar9LKZTVgTxMhOnCKp0giOCxt2Gl0VhfqAzSvJowm_e9ob89w6xAEsv6tvqwuWXyx1OlKXyQIXRDih_gIVYKIO" height="370" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMtuwjAQRff5CssrWDhRAgkKifmRqouJbdIBY0cZRzQq_fea8hBilnOP7uhMS2rEITCg2SlGo5I8ywboDegi7b3vrYmJRgUBvUuVP93T7EAZaOrmG5QeiO_a7Na2S1p0xJQFIslfKJ6w61CYrZFcIw0W5m1nvTo2LJjvIMBi77bKuGDG5o5rCCBAi70fTxAk39sJ9VsWe_wUM3QCxoDqeesBKIuxVHIFYpg6Ua6qvK5XdZUXeV3W-RtN1ke2LKt8vVmXxebqFpWi2MPwH1-8uDHJzui0P6evy8uFfXwu02Gir8XP77JJnj_6A6wrek8" height="244" style=""></iframe>
+
+[Explore life in our amazing world][0]
 
 ---
 
@@ -39,13 +39,11 @@ Alex Hawkins published this amazing video of his experiences when traveling thro
 
 _June by Bruce W Berry Jr._
 
-This video was created by [Bruce W. Berry Jr.][0]. He doesn't only show amazing creative skills, but he also shows what \#AmazingWorld is all about. We will be sharing more of his work here, because this man is such an inspiration to all of us. Thanks Bruce!
+This video was created by [Bruce W. Berry Jr.][1]. He doesn't only show amazing creative skills, but he also shows what \#AmazingWorld is all about. We will be sharing more of his work here, because this man is such an inspiration to all of us. Thanks Bruce!
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzlsOwiAQheGtkFlAIV4wNaV7oTAVIjjNQEt09Tb61sfvfzg5Q5zZZhSFnYFQ61LuUi7JvpG7LWakzlGWW_RIsu_VVavTDUSLvgYD-qJABIyPUA2c9Y7f2ETskQ3sbjg9Y7UpUZvXlIpjxJfI9Dmmg8dB_o-NX1eHOL0" height="380" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkE1SwzAMha-iDWRDE9OhZZo_hg0X4AROrDQCO8rYakJhuDumgUUpu6cnjd4nlUGOFusUXYNm1fIgmgb08AEjBxLiIQePVgtNWMCojaFhv2pYhF0Om2263lwV0CPte8nhTqkCeELfWZ5z6MkYHApw-m01k5E-h1ul4vwnXARS57XDm8sGNy_Yyj-NU30GqpvA9iARVHjMIbJY7OQkzuJ_cX9gymx5QmlogtbqEKrkT1hSlwsgBN9WSS8yhjzLRquP6NOJHHLasssmMsjZbqc2W7W-fxASi5W6bo42boliZC9ek1QqgdO-hr1BXyWxnrF5JXm08XVPB2ufW484gON3_W110QqLpc9H6jJb2KKIF9RfhE2h1Q" height="420" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMtuwjAQRff5CssrWDhRAgkKifmRqouJbdIBY0cZRzQq_fea8hBilnOP7uhMS2rEITCg2SlGo5I8ywboDegi7b3vrYmJRgUBvUuVP93T7EAZaOrmG5QeiO_a7Na2S1p0xJQFIslfKJ6w61CYrZFcIw0W5m1nvTo2LJjvIMBi77bKuGDG5o5rCCBAi70fTxAk39sJ9VsWe_wUM3QCxoDqeesBKIuxVHIFYpg6Ua6qvK5XdZUXeV3W-RtN1ke2LKt8vVmXxebqFpWi2MPwH1-8uDHJzui0P6evy8uFfXwu02Gir8XP77JJnj_6A6wrek8" height="244" style=""></iframe>
-
-### Read and see more of the Amazing world
 
 ---
 
@@ -57,4 +55,5 @@ In this time-lapse video I wanted to introduce the hidden world of infrared phot
 
 For this Infrared video, I used a "Red filter" or sometimes referred to as the "Goldie filter" instead of a yellow filter I used in the last project. Like in the previous infrared time-lapse I used a "Full Spectrum Camera" to make this video.
 
-[0]: http://www.bruce-wayne-photography.com/p319701911
+[0]: http://amazingworld.only-amazing.com/living-in-an-amazing-world/
+[1]: http://www.bruce-wayne-photography.com/p319701911
