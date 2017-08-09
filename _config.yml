@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Home
+  - name: Amazing Tech
     url: 'http://only-amazing.com/'
     type: external
 favicon: >-
