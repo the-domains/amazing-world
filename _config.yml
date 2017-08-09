@@ -36,6 +36,9 @@ navigation:
   - name: Amazing Experience
     url: 'http://amazingexperience.only-amazing.com/'
     type: external
+  - name: Contact us
+    url: 'http://only-amazing.com/onlyamazing-is-supported-by/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e59070f-2f9d-46a1-86eb-eec438574f10.jpg
 title: 'All of the #Amazing the world has to offer!'
