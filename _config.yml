@@ -74,7 +74,6 @@ content:
         Palazzo Bembo Venice Italia - www.palazzobembo.com Max. resolution 1080
         - Full HD View more webcams in streaming from here
         https://www.youtube.com/c/iloveyouvenice
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
@@ -86,4 +85,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ' Enjoy this months live video is of the Brooks Falls in Katmai National Park'
+description: ' Enjoy this months live from Venice'
