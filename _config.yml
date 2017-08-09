@@ -39,6 +39,9 @@ navigation:
   - name: Contact us
     url: 'http://only-amazing.com/onlyamazing-is-supported-by/'
     type: external
+  - name: Home
+    url: 'http://only-amazing.com/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e59070f-2f9d-46a1-86eb-eec438574f10.jpg
 title: 'All of the #Amazing the world has to offer!'
@@ -52,16 +55,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: I Love You Venice
-          url: 'https://www.youtube.com/channel/UCMpn1qLudF-zb4M4bqxLIbw'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=vPbQcM4k1Ys'
       keywords:
         - video
         - sharing
@@ -69,19 +64,27 @@ content:
         - video phone
         - free
         - upload
+      related: []
+      author:
+        - name: I Love You Venice
+          url: 'https://www.youtube.com/channel/UCMpn1qLudF-zb4M4bqxLIbw'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: >-
+        Venice Italy Live Cam - Rialto Bridge in Live Streaming from Palazzo
+        Bembo - Live Webcam Full HD
+      '@type': VideoObject
+      app_links: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
       description: >-
         Venice Italy - Rialto Bridge Amazing Live View of Rialto Bridge from
         Palazzo Bembo Venice Italia - www.palazzobembo.com Max. resolution 1080
         - Full HD View more webcams in streaming from here
         https://www.youtube.com/c/iloveyouvenice
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=vPbQcM4k1Ys'
-      title: >-
-        Venice Italy Live Cam - Rialto Bridge in Live Streaming from Palazzo
-        Bembo - Live Webcam Full HD
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
