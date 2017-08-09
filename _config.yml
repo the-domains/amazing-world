@@ -27,9 +27,6 @@ navigation:
   - name: Home
     url: 'http://only-amazing.com/'
     type: external
-  - name: Living in an Amazing World
-    id: 51fb21a2-f289-4890-b154-1dbddfa96bfd
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e59070f-2f9d-46a1-86eb-eec438574f10.jpg
 title: 'All of the #Amazing the world has to offer!'
