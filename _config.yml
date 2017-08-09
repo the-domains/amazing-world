@@ -27,9 +27,6 @@ navigation:
   - name: Home
     url: 'http://only-amazing.com/'
     type: external
-  - name: AmazingIncentives
-    id: bea12c2e-e7ef-4a6a-b9f4-c39c7565bd2a
-    type: content
   - name: Living in an Amazing World
     id: 51fb21a2-f289-4890-b154-1dbddfa96bfd
     type: content
