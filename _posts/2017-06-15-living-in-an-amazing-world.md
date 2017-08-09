@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The world is an amazing place and we offer the best content about life in
   general, whether it is city life or the beauty of nature.
-dateModified: '2017-07-16T11:57:23.818Z'
-datePublished: '2017-07-16T11:57:23.934Z'
+dateModified: '2017-08-09T08:45:28.458Z'
+datePublished: '2017-08-09T08:45:29.080Z'
 title: Living in an amazing world
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ Alex Hawkins published this amazing video of his experiences when traveling thro
 
 # More \#LivingWorld
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj0FuwjAQRfc5hesVLOzUhKAaEg7RbdXFxDbB1NhWxhGKSu9eI2gVMcv__ozeNKgGGxMBnLwiOKiWlmWE3oBe8T6E3plMtFWQbPBchfODlicsQWM33Uv8hHTflPdr-6J5YYy8G4zBozUHwljOrEeiHCC2dLZJC3IbTJMzLdUWo4Np27mgvh5IQwIGmilnjU8tVcDi2LG62ggpK7kRKyFrKZ7a6ELuykpI8bau169P-BCGM-QCjCnczLNcVvzzX8wESUsu1utw4fPweiUfn0seRzwuvn-Wu-L_-V8THG1R" height="90" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMtuwjAQRff5CssrWDhRAgkKifmRqouJbdIBY0cZRzQq_fea8hBilnOP7uhMS2rEITCg2SlGo5I8ywboDegi7b3vrYmJRgUBvUuVP93T7EAZaOrmG5QeiO_a7Na2S1p0xJQFIslfKJ6w61CYrZFcIw0W5m1nvTo2LJjvIMBi77bKuGDG5o5rCCBAi70fTxAk39sJ9VsWe_wUM3QCxoDqeesBKIuxVHIFYpg6Ua6qvK5XdZUXeV3W-RtN1ke2LKt8vVmXxebqFpWi2MPwH1-8uDHJzui0P6evy8uFfXwu02Gir8XP77JJnj_6A6wrek8" height="244" style=""></iframe>
 
 ---
 
@@ -43,7 +43,7 @@ This video was created by [Bruce W. Berry Jr.][0]. He doesn't only show amazing 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzlsOwiAQheGtkFlAIV4wNaV7oTAVIjjNQEt09Tb61sfvfzg5Q5zZZhSFnYFQ61LuUi7JvpG7LWakzlGWW_RIsu_VVavTDUSLvgYD-qJABIyPUA2c9Y7f2ETskQ3sbjg9Y7UpUZvXlIpjxJfI9Dmmg8dB_o-NX1eHOL0" height="380" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj0FuwjAQRfc5hesVLOzUhKAaEg7RbdXFxDbB1NhWxhGKSu9eI2gVMcv__ozeNKgGGxMBnLwiOKiWlmWE3oBe8T6E3plMtFWQbPBchfODlicsQWM33Uv8hHTflPdr-6J5YYy8G4zBozUHwljOrEeiHCC2dLZJC3IbTJMzLdUWo4Np27mgvh5IQwIGmilnjU8tVcDi2LG62ggpK7kRKyFrKZ7a6ELuykpI8bau169P-BCGM-QCjCnczLNcVvzzX8wESUsu1utw4fPweiUfn0seRzwuvn-Wu-L_-V8THG1R" height="100" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMtuwjAQRff5CssrWDhRAgkKifmRqouJbdIBY0cZRzQq_fea8hBilnOP7uhMS2rEITCg2SlGo5I8ywboDegi7b3vrYmJRgUBvUuVP93T7EAZaOrmG5QeiO_a7Na2S1p0xJQFIslfKJ6w61CYrZFcIw0W5m1nvTo2LJjvIMBi77bKuGDG5o5rCCBAi70fTxAk39sJ9VsWe_wUM3QCxoDqeesBKIuxVHIFYpg6Ua6qvK5XdZUXeV3W-RtN1ke2LKt8vVmXxebqFpWi2MPwH1-8uDHJzui0P6evy8uFfXwu02Gir8XP77JJnj_6A6wrek8" height="244" style=""></iframe>
 
 ### Read and see more of the Amazing world
 
