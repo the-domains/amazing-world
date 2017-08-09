@@ -4,8 +4,8 @@ description: >-
   The world is an amazing place and we share the most amazing incentives to keep
   the world amazing. From Small incentives such as city farming in the US and
   Beach cleanup to saving animals and big #OceanCleanup incentives.
-dateModified: '2017-06-24T07:27:22.289Z'
-datePublished: '2017-06-24T07:27:22.929Z'
+dateModified: '2017-08-09T08:44:57.828Z'
+datePublished: '2017-08-09T08:44:58.538Z'
 title: '#AmazingIncentives'
 author: []
 publisher: {}
@@ -32,7 +32,7 @@ Watch below's video and get inspired and feel free to have a look at [their webs
 
 # More \#AmazingIncentives
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj0FuwjAQRfc5hesVLOzUhKAaEg7RbdXFxDbB1NhWxhGKSu9eI2gVMcv__ozeNKgGGxMBnLwiOKiWlmWE3oBe8T6E3plMtFWQbPBchfODlicsQWM33Uv8hHTflPdr-6J5YYy8G4zBozUHwljOrEeiHCC2dLZJC3IbTJMzLdUWo4Np27mgvh5IQwIGmilnjU8tVcDi2LG62ggpK7kRKyFrKZ7a6ELuykpI8bau169P-BCGM-QCjCnczLNcVvzzX8wESUsu1utw4fPweiUfn0seRzwuvn-Wu-L_-V8THG1R" height="95" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMtuwjAQRff5CssrWDhRAgkKifmRqouJbdIBY0cZRzQq_fea8hBilnOP7uhMS2rEITCg2SlGo5I8ywboDegi7b3vrYmJRgUBvUuVP93T7EAZaOrmG5QeiO_a7Na2S1p0xJQFIslfKJ6w61CYrZFcIw0W5m1nvTo2LJjvIMBi77bKuGDG5o5rCCBAi70fTxAk39sJ9VsWe_wUM3QCxoDqeesBKIuxVHIFYpg6Ua6qvK5XdZUXeV3W-RtN1ke2LKt8vVmXxebqFpWi2MPwH1-8uDHJzui0P6evy8uFfXwu02Gir8XP77JJnj_6A6wrek8" height="244" style=""></iframe>
 
 ---
 
@@ -44,7 +44,7 @@ Cleaning up the beaches is a daunting task but these people are making it happen
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkM1qwzAQhF_FCOKj_2I7jhulBEqh90KPRZFWlqiiFZJiN29f1e6psCy7w3xzmJOWnt0gC55TomJ0YSzLZVkKyThcEb8KjrfSmfukbShnLQALp9yz8iDp6t_tL7vmNc1_KkkvLBGXGTkT-IFGQtLWjJCOuqq7tquHfX9our6rm6TlixZR0a6q8qBw-YzwHalkJkDOnHsTtB4SUR3aY9rHoW9zBXpS8Zcg2QaT9f7TtyfEhwFKrugF-NGihSecwUuDy6i0EGCTh3s0RtuJEoskW2vZAEpSBDPJ_O6ZDY55sPxBSfR3IOdTuVV4_gHa_G6F" height="550" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj0FuwjAQRfc5hesVLOzUhKAaEg7RbdXFxDbB1NhWxhGKSu9eI2gVMcv__ozeNKgGGxMBnLwiOKiWlmWE3oBe8T6E3plMtFWQbPBchfODlicsQWM33Uv8hHTflPdr-6J5YYy8G4zBozUHwljOrEeiHCC2dLZJC3IbTJMzLdUWo4Np27mgvh5IQwIGmilnjU8tVcDi2LG62ggpK7kRKyFrKZ7a6ELuykpI8bau169P-BCGM-QCjCnczLNcVvzzX8wESUsu1utw4fPweiUfn0seRzwuvn-Wu-L_-V8THG1R" height="95" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMtuwjAQRff5CssrWDhRAgkKifmRqouJbdIBY0cZRzQq_fea8hBilnOP7uhMS2rEITCg2SlGo5I8ywboDegi7b3vrYmJRgUBvUuVP93T7EAZaOrmG5QeiO_a7Na2S1p0xJQFIslfKJ6w61CYrZFcIw0W5m1nvTo2LJjvIMBi77bKuGDG5o5rCCBAi70fTxAk39sJ9VsWe_wUM3QCxoDqeesBKIuxVHIFYpg6Ua6qvK5XdZUXeV3W-RtN1ke2LKt8vVmXxebqFpWi2MPwH1-8uDHJzui0P6evy8uFfXwu02Gir8XP77JJnj_6A6wrek8" height="244" style=""></iframe>
 
 ---
 
